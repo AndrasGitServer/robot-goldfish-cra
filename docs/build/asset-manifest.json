@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-goldfish-cra/static/css/main.95e67c4b.chunk.css",
+    "main.js": "/robot-goldfish-cra/static/js/main.0f057d8a.chunk.js",
+    "main.js.map": "/robot-goldfish-cra/static/js/main.0f057d8a.chunk.js.map",
+    "runtime-main.js": "/robot-goldfish-cra/static/js/runtime-main.bfd9a76d.js",
+    "runtime-main.js.map": "/robot-goldfish-cra/static/js/runtime-main.bfd9a76d.js.map",
+    "static/js/2.8ab13abf.chunk.js": "/robot-goldfish-cra/static/js/2.8ab13abf.chunk.js",
+    "static/js/2.8ab13abf.chunk.js.map": "/robot-goldfish-cra/static/js/2.8ab13abf.chunk.js.map",
+    "index.html": "/robot-goldfish-cra/index.html",
+    "precache-manifest.f7bec6f67fc421e3ebbfcec5ec031df8.js": "/robot-goldfish-cra/precache-manifest.f7bec6f67fc421e3ebbfcec5ec031df8.js",
+    "service-worker.js": "/robot-goldfish-cra/service-worker.js",
+    "static/css/main.95e67c4b.chunk.css.map": "/robot-goldfish-cra/static/css/main.95e67c4b.chunk.css.map",
+    "static/js/2.8ab13abf.chunk.js.LICENSE.txt": "/robot-goldfish-cra/static/js/2.8ab13abf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfd9a76d.js",
+    "static/js/2.8ab13abf.chunk.js",
+    "static/css/main.95e67c4b.chunk.css",
+    "static/js/main.0f057d8a.chunk.js"
+  ]
+}
